@@ -24,9 +24,12 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "change": "beachball change --no-commit",
+    "release": "beachball publish --yes"
   },
   "devDependencies": {
+    "beachball": "^2.46.0",
     "lint-staged": "^15.2.10",
     "prettier": "^3.2.5",
     "turbo": "^2.1.1",

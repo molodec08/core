@@ -7,6 +7,13 @@
     "eslint",
     "react"
   ],
+  "homepage": "https://github.com/molodec08/core",
+  "repository": {
+    "url": "https://github.com/molodec08/core"
+  },
+  "bugs": {
+    "url": "https://github.com/molodec08/core/issues"
+  },
   "author": {
     "name": "Yuriy Slaschev",
     "url": "https://github.com/molodec08"
