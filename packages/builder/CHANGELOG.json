@@ -1,0 +1,20 @@
+{
+  "name": "@slaschev/builder",
+  "entries": [
+    {
+      "date": "Thu, 05 Sep 2024 12:43:38 GMT",
+      "version": "1.0.6",
+      "tag": "@slaschev/builder_v1.0.6",
+      "comments": {
+        "patch": [
+          {
+            "author": "molodec.08@mail.ru",
+            "package": "@slaschev/builder",
+            "commit": "not available",
+            "comment": "test publish"
+          }
+        ]
+      }
+    }
+  ]
+}
