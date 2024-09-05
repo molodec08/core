@@ -1,6 +1,6 @@
 {
-  "name": "my-turborepo",
-  "private": true,
+  "name": "@slaschev/core",
+  "version": "0.0.0",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
@@ -8,6 +8,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "lint-staged": "^15.2.10",
     "prettier": "^3.2.5",
     "turbo": "^2.1.1",
     "typescript": "^5.4.5"

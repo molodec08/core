@@ -1,0 +1,49 @@
+{
+  "name": "@slaschev/eslint",
+  "description": "eslint configs",
+  "license": "MIT",
+  "version": "0.0.0",
+  "keywords": [
+    "eslint",
+    "react"
+  ],
+  "author": {
+    "name": "Yuriy Slaschev",
+    "url": "https://github.com/molodec08"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    ".eslintrc.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"*.js\""
+  },
+  "lint-staged": {
+    "*.js": "prettier --write"
+  },
+  "peerDependencies": {
+    "eslint": "^8.48.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "eslint": "^8.55.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-react": "^7.34.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-simple-import-sort": "^12.1.0"
+  },
+  "devDependencies": {
+    "@slaschev/prettier": "*"
+  }
+}

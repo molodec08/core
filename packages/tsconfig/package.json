@@ -1,0 +1,22 @@
+{
+  "name": "@slaschev/tsconfig",
+  "description": "typescript config",
+  "license": "MIT",
+  "version": "0.0.0",
+  "keywords": [
+    "typescript-config"
+  ],
+  "author": {
+    "name": "Yuriy Slaschev",
+    "url": "https://github.com/molodec08"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "peerDependencies": {
+    "typescript": "^4.9.5 || ^5.0.0"
+  }
+}
