@@ -1,6 +1,25 @@
 {
   "name": "@slaschev/core",
+  "license": "MIT",
   "version": "0.0.0",
+  "keywords": [
+    "prettier",
+    "eslint",
+    "tsconfig",
+    "builder",
+    "stylelint"
+  ],
+  "private": true,
+  "author": {
+    "name": "Yuriy Slaschev",
+    "url": "https://github.com/molodec08"
+  },
+  "bugs": {
+    "url": "https://github.com/molodec08/core/issues"
+  },
+  "repository": {
+    "url": "https://github.com/molodec08/core"
+  },
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
@@ -18,7 +37,6 @@
   },
   "packageManager": "npm@9.6.4",
   "workspaces": [
-    "apps/*",
     "packages/*"
   ]
 }
