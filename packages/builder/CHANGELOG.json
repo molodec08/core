@@ -2,6 +2,21 @@
   "name": "@slaschev/builder",
   "entries": [
     {
+      "date": "Fri, 06 Sep 2024 07:41:33 GMT",
+      "version": "0.0.3",
+      "tag": "@slaschev/builder_v0.0.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "molodec.08@mail.ru",
+            "package": "@slaschev/builder",
+            "commit": "not available",
+            "comment": ""
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 05 Sep 2024 13:00:25 GMT",
       "version": "0.0.1",
       "tag": "@slaschev/builder_v0.0.1",

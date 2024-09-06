@@ -1,0 +1,20 @@
+{
+  "name": "@slaschev/stylelint",
+  "entries": [
+    {
+      "date": "Fri, 06 Sep 2024 07:41:33 GMT",
+      "version": "0.0.1",
+      "tag": "@slaschev/stylelint_v0.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "molodec.08@mail.ru",
+            "package": "@slaschev/stylelint",
+            "commit": "not available",
+            "comment": "desc"
+          }
+        ]
+      }
+    }
+  ]
+}

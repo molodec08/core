@@ -2,7 +2,7 @@
   "name": "@slaschev/tsconfig",
   "description": "typescript config",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "typescript-config"
   ],
